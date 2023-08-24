@@ -1,0 +1,264 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Business\\Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\toklu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\toklu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\toklu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\toklu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\toklu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\toklu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Core\\Core.csproj"
+              },
+              "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Entity\\Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Entity\\Entity.csproj",
+        "projectName": "Entity",
+        "projectPath": "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\toklu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\toklu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Moviesify-V1\\Moviesify\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
