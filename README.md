@@ -17,23 +17,23 @@ When I prepare other versions, I will share them as separate repositories.
 
 ## Screenshots
 
-![](https://github.com/EmreToklu00/Moviesify-V1/blob/main/Github/movie/movie_getall.png)
-![](https://github.com/EmreToklu00/Moviesify-V1/blob/main/Github/movie/movie_getbyid.png)
-![](https://github.com/EmreToklu00/Moviesify-V1/blob/main/Github/movie/movie_getlistbycategory.png)
-![](https://github.com/EmreToklu00/Moviesify-V1/blob/main/Github/movie/movie_add.png)
-![](https://github.com/EmreToklu00/Moviesify-V1/blob/main/Github/movie/movie_update.png)
-![](https://github.com/EmreToklu00/Moviesify-V1/blob/main/Github/movie/movie_delete.png)
+![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/movie/movie_getall.png)
+![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/movie/movie_getbyid.png)
+![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/movie/movie_getlistbycategory.png)
+![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/movie/movie_add.png)
+![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/movie/movie_update.png)
+![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/movie/movie_delete.png)
 ----
-![](https://github.com/EmreToklu00/Moviesify-V1/blob/main/Github/category/category_getall.png)
-![](https://github.com/EmreToklu00/Moviesify-V1/blob/main/Github/category/category_getbyid.png)
-![](https://github.com/EmreToklu00/Moviesify-V1/blob/main/Github/category/category_add.png)
-![](https://github.com/EmreToklu00/Moviesify-V1/blob/main/Github/category/category_update.png)
-![](https://github.com/EmreToklu00/Moviesify-V1/blob/main/Github/category/category_delete.png)
+![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/category/category_getall.png)
+![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/category/category_getbyid.png)
+![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/category/category_add.png)
+![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/category/category_update.png)
+![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/category/category_delete.png)
 ----
-![](https://github.com/EmreToklu00/Moviesify-V1/blob/main/Github/publisher/publisher_getall.png)
-![](https://github.com/EmreToklu00/Moviesify-V1/blob/main/Github/publisher/publisher_getbyid.png)
-![](https://github.com/EmreToklu00/Moviesify-V1/blob/main/Github/publisher/publisher_add.png)
-![](https://github.com/EmreToklu00/Moviesify-V1/blob/main/Github/publisher/publisher_update.png)
-![](https://github.com/EmreToklu00/Moviesify-V1/blob/main/Github/publisher/publisher_delete.png)
+![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/publisher/publisher_getall.png)
+![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/publisher/publisher_getbyid.png)
+![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/publisher/publisher_add.png)
+![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/publisher/publisher_update.png)
+![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/publisher/publisher_delete.png)
 
 <p align="right"><-<a href="#readme-top">back to top</a>-></p>
