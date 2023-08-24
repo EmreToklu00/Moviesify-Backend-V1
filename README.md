@@ -18,6 +18,7 @@ When I prepare other versions, I will share them as separate repositories.
 ## Screenshots
 
 ![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/vs/solution_explorer.png)
+----
 ![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/vs/swagger.png)
 ----
 ![](https://github.com/EmreToklu00/Moviesify-V1/blob/master/Github/movie/movie_getall.png)
