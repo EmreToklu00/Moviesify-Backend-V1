@@ -13,7 +13,7 @@ When I prepare other versions, I will share them as separate repositories.
 - I worked with .NET Core 6.0 version.
 - I used SQLite as the database.
 - I developed the project using the Modular Architecture (Core, Entity, Data, Business, WebAPI)
-- I utilized Entity Framework Core and followed a code-first approach for database development.
+- I utilized Entity Framework Core and followed a code-first approach for database.
 
 ## Screenshots
 
