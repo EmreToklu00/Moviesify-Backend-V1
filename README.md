@@ -1,7 +1,7 @@
 
 <a name="readme-top"></a>
 
-# Moviesify-V1
+# Moviesify-Backend-V1
 
 This repository is a Web API project created using .NET Core. In this project, I have focused on the architecture of the web API and implemented basic CRUD (Create, Read, Update, Delete) operations for films, categories, and publishers in the V1 version.
 
