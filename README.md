@@ -3,9 +3,9 @@
 
 # Moviesify-Backend-V1
 
-This repository is a Web API project created using .NET Core. In this project, I have focused on the architecture of the web API and implemented basic CRUD (Create, Read, Update, Delete) operations for films, categories, and publishers in the V1 version.
+This is a simple .NET Core MVC project, I wanted to keep the appearance of the site simple and straightforward.
 
-Any kind of feedback is important to me. This is an example project for those who want to improve themselves with .Net 6.0 WebAPI
+Any kind of feedback is important to me. This is an example project for those who want to improve themselves with .Net Core
 
 When I prepare other versions, I will share them as separate repositories.
 
