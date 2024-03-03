@@ -18,7 +18,7 @@ builder.Services.AddScoped<IPublisherDal, EfPublisherDal>();
 
 builder.Services.AddControllers();
 
-//-------------JWT---------------
+//-------------Policy---------------
 builder.Services.AddCors(options =>
 {
     //Localhost must be change
