@@ -17,6 +17,15 @@ builder.Services.AddScoped<IPublisherService, PublisherManager>();
 builder.Services.AddScoped<IPublisherDal, EfPublisherDal>();
 
 builder.Services.AddControllers();
+
+//-------------JWT---------------
+builder.Services.AddCors(options =>
+{
+    //Localhost must be change
+    options.AddPolicy(name: "AllowOrigin", configurePolicy: builder => builder.WithOrigins("http://localhost:3000").AllowAnyHeader());
+});
+
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -33,6 +42,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors("AllowOrigin");
 
 app.UseAuthorization();
 
